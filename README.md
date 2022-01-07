@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @jenniferkill
 - 👀 I’m interested in Python
-- 🌱 I’m currently learning Reac js
+- 🌱 I’m currently learning React js
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
